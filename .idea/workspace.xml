@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd7ef5dd-e3b4-45bb-95b3-c3a3c3536378" name="Changes" comment="" />
+    <list default="true" id="dd7ef5dd-e3b4-45bb-95b3-c3a3c3536378" name="Changes" comment="Ejercicio resuelto, que antes tenia en word hehe">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sergi/OneDrive/Documents/GitHub/desplegament",
+    "last_opened_file_path": "C:/Users/sergi/OneDrive/Desktop/despliegue-de-aplicaciones-web",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -50,7 +52,23 @@
       <updated>1664366023190</updated>
       <workItem from="1664366024539" duration="157000" />
       <workItem from="1664434155701" duration="1608000" />
+      <workItem from="1664446063318" duration="285000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio resuelto, que antes tenia en word hehe">
+      <created>1664446101779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664446101779</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ejercicio resuelto, que antes tenia en word hehe">
+      <created>1664446278532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664446278532</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio resuelto, que antes tenia en word hehe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio resuelto, que antes tenia en word hehe" />
   </component>
 </project>
