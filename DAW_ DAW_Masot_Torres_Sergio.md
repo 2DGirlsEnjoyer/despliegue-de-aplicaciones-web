@@ -11,7 +11,7 @@ Inspeccionamos la página web, nos vamos a network, hacemos click sobre el prime
 
 En esta capa es donde encontramos algunos protocolos muy famosos como son el HTTP de las páginas web, el FTP para la transferencia de archivos, DHCP como protocolo de configuración dinámica de host o el SMTP para la transferencia de correos. Corresponde a las capas 5, 6 y 7 del modelo OSI.
 
-- TCP, en la capa 1.
+- TCP, en la capa 1. 
 - UDP, en la capa 3.
 - IP, en la capa 1 y 2.
 
